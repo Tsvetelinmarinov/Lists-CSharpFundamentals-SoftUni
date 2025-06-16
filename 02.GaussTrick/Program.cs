@@ -20,5 +20,7 @@ class Program
         }
 
         Console.WriteLine(String.Join(' ', numbers));
+
+        Math.Min(3, 6);
     }
 }
