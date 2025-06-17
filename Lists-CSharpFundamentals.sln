@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ListОfProducts", "04.Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RemoveNegativesAndReverse", "05.RemoveNegativesAndReverse\05.RemoveNegativesAndReverse.csproj", "{DD367A88-A6CC-4B7D-8B0C-B33E7CA83C2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draft", "Draft\Draft.csproj", "{D47D5C9E-8EEC-40EC-A2B0-88F63FC5414F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ListManipulationBasics", "06.ListManipulationBasics\06.ListManipulationBasics.csproj", "{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{DD367A88-A6CC-4B7D-8B0C-B33E7CA83C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD367A88-A6CC-4B7D-8B0C-B33E7CA83C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD367A88-A6CC-4B7D-8B0C-B33E7CA83C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47D5C9E-8EEC-40EC-A2B0-88F63FC5414F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47D5C9E-8EEC-40EC-A2B0-88F63FC5414F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47D5C9E-8EEC-40EC-A2B0-88F63FC5414F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47D5C9E-8EEC-40EC-A2B0-88F63FC5414F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
