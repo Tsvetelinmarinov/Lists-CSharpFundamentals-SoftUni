@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draft", "Draft\Draft.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ListManipulationBasics", "06.ListManipulationBasics\06.ListManipulationBasics.csproj", "{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ListManipulationAdvanced", "07.ListManipulationAdvanced\07.ListManipulationAdvanced.csproj", "{CC9DD6C9-744E-4FB5-AD34-EAE0ACF37AE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCFFA2B2-68EB-473D-8F8E-444EB94F969D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9DD6C9-744E-4FB5-AD34-EAE0ACF37AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9DD6C9-744E-4FB5-AD34-EAE0ACF37AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9DD6C9-744E-4FB5-AD34-EAE0ACF37AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9DD6C9-744E-4FB5-AD34-EAE0ACF37AE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
